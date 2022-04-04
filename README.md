@@ -1,2 +1,2 @@
-# Pairs
+## Pairs
 HackerRank solution
