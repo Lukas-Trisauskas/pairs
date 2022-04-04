@@ -1,2 +1,2 @@
 ## Pairs
-HackerRank solution
+HackerRank optimal solution
